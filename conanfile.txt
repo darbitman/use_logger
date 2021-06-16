@@ -1,0 +1,5 @@
+[requires]
+logger/0.0.1@darbitman/stable
+
+[generators]
+cmake
